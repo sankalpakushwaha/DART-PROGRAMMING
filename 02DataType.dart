@@ -1,7 +1,9 @@
 void main(){
 /*String name ="sankalp kushwaha"; 
 String address ="kathmandu"; 
-int age =22;
+int age =22;void main(){
+  print("HelloUniverse"); 
+}
 double salary=50000.00;
 bool isMarried =false;
 
