@@ -1,6 +1,6 @@
 void main()
 {
-  String day = "sunday";
+  String day = "wednesday";
 switch (day) {
     case "sunday":
       print("today is holiday");
